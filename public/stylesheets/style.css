@@ -1,2 +1,59 @@
-*{box-sizing:border-box}body{font-family:Verdana,sans-serif;font-size:0.8em}header{border:1px solid grey;margin:5px;padding:8px}nav{border:1px solid grey;margin:5px;padding:8px}nav ul{margin:0;padding:0}nav ul li{display:inline;margin:5px}section{border:1px solid grey;margin:5px;padding:8px}article{border:1px solid grey;margin:5px;padding:8px}footer{border:1px solid grey;margin:5px;padding:8px}aside{float:right}h1{margin-left:5px}h2{margin-left:5px}h3{margin-left:5px}h4{margin-left:5px}table{margin:5px}
+* {
+  box-sizing: border-box; }
+
+body {
+  font-family: Verdana, sans-serif;
+  font-size: 0.8em;
+  background-color: #1D2125;
+  margin: 50px; }
+
+header {
+  border: 1px solid grey;
+  margin: 0px;
+  padding: 0px; }
+
+nav {
+  border: 1px solid grey;
+  margin: 0px;
+  padding: 8px; }
+  nav ul {
+    margin: 0;
+    padding: 0; }
+    nav ul li {
+      display: inline;
+      margin: 0px; }
+
+section {
+  border: 1px solid grey;
+  margin: 0px;
+  padding: 8px; }
+
+article {
+  border: 1px solid grey;
+  margin: 0px;
+  padding: 8px; }
+
+footer {
+  border: 1px solid grey;
+  margin: 0px;
+  padding: 8px; }
+
+aside {
+  float: right; }
+
+h1 {
+  margin-left: 0px; }
+
+h2 {
+  margin-left: 0px; }
+
+h3 {
+  margin-left: 0px; }
+
+h4 {
+  margin-left: 0px; }
+
+table {
+  margin: 0px; }
+
 /*# sourceMappingURL=style.css.map */
