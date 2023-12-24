@@ -1,4 +1,4 @@
-# Simple Skeleton with NodeJS, Express & EJS view
+# Skeleton with NodeJS, Express & EJS view
 
 ## Documentation
 * Install dependencies using [npm](https://www.npmjs.com/) javascript package manager: ``` npm install ```
